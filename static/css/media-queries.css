@@ -1,0 +1,11 @@
+/*Settings tablet*/
+
+@media (max-width: 1439px) {
+    .products-wrap {
+        grid-template-columns: repeat(2, 360px);
+        }
+    .offer-wrap {
+        padding: 0;
+        width: 90%;
+    }
+}
